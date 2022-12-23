@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bj Tumampos.
 - 🌱 I’m currently learning ... Web Developing, and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
