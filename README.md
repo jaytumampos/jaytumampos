@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Bj Tumampos.
-- 🌱 I’m First Year College Student in Bestlink College of the Philippines and currently learning ... Web Developing, and Machine Learning.
+- 🌱 Currently I'm a 2nd Year College Student in Bestlink College of the Philippines and currently learning ... Web developing and machine learning
+  
 
 <!---
 jaytumampos/jaytumampos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
